@@ -18,3 +18,4 @@ Follow along if you want to see a raw, honest, full-stack learning journey in re
 
 22-10-2025
 Starting html with coder army's playlist. i know all the html already but still i will revise. then i will move on to css and further. 
+Hey, so today i revised all the basics of attributes and tags and Tables and Lists. Html was more fun then DSA. Yeah i did dsa before in C++.
