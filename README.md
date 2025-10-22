@@ -15,3 +15,6 @@ First, build systems. Then, break and protect systems. 💻🔒
 - This repo will serve as my personal *learning journal*, visible to anyone, including recruiters, without the fluff of social media.  
 
 Follow along if you want to see a raw, honest, full-stack learning journey in real-time.
+
+22-10-2025
+Starting html with coder army's playlist. i know all the html already but still i will revise. then i will move on to css and further. 
